@@ -1,0 +1,5 @@
+bt/
+__pycache__/
+*.pyc
+temp_*.jpg
+.env
